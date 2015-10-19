@@ -2,16 +2,9 @@
 
 git exercise
 
-<<<<<<< HEAD
-
-
-
-
-
 Hi, It's Brian.
-=======
 Ok, charles has made a commit
 Hello I am Robb
 George here, reporting for duty
 Melissa is sleepy.
->>>>>>> master
+my name is amelia.  i am the very model of a modern major general
